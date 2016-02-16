@@ -1,5 +1,7 @@
 # Lingo: Scaling Code Quality
 
+#Stop patronising me then
+
 ## Housekeeping
 
 See [here](https://medium.com/@jessemeek/not-learning-the-lingo-how-a-bad-performance-review-gave-birth-to-a-new-start-up-45e36dd997b9#.shv55pite) for the story behind Lingo. Please add an issue for any bugs or feature requests.
